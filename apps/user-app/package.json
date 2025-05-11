@@ -12,15 +12,14 @@
   },
   "dependencies": {
     "@repo/ui": "^0.0.0",
-    "@repo/store": "*",
     "next": "^15.3.0",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0",
-    "recoil": "^0.7.7"
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@next/eslint-plugin-next": "^15.3.0",
     "@repo/db": "*",
+    "@repo/store": "*",
     "@repo/eslint-config": "*",
     "@repo/tailwind-config": "*",
     "@repo/typescript-config": "*",

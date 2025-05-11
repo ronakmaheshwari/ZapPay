@@ -19,6 +19,7 @@
   "devDependencies": {
     "@next/eslint-plugin-next": "^15.3.0",
     "@repo/db":"*",
+    "@repo/store": "*",
     "@repo/eslint-config": "*",
     "@repo/tailwind-config": "*",
     "@repo/typescript-config": "*",
